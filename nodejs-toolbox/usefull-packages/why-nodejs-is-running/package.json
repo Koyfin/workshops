@@ -1,0 +1,7 @@
+{
+  "name": "why-nodejs-is-running-example",
+  "version": "1.0.0",
+  "dependencies": {
+    "why-is-node-running": "^2.1.0"
+  }
+}
